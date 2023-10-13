@@ -6,6 +6,7 @@ excerpt: "Talks"
 author_profile: true
 ---
 
+- 2023-10-13: **A Workshop on Documentation**, Book Club Group, Kingston, Ontario. (The [slides](https://amirsojoodi.github.io/files/Documentation.pdf))
 - 2023-08-16: **LeGendre Pairs Optimization - Part2**, Book Club talks, at [Distributive](https://distributive.network/), Kingston, Ontario. (The [slides](https://amirsojoodi.github.io/files/Distributive/LeGendre-Pairs-Optimization-Part2.pdf))
 - 2022-11-09: **LeGendre Pairs Optimization - Part1**, Book Club talks, at [Distributive](https://distributive.network/), Kingston, Ontario. (The [slides](https://amirsojoodi.github.io/files/Distributive/LeGendre-Pairs-Optimization-Part1.pdf))
 - 2022-10-05: **Introduction to GPUs - Part2**, Book Club talks, at [Distributive](https://distributive.network/), Kingston, Ontario. (The [slides](https://amirsojoodi.github.io/files/Distributive/GPUs-Part2-Streams-and-Profiling.pdf))
