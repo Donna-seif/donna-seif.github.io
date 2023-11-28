@@ -14,6 +14,7 @@ redirect_from:
 
 ## News
 
+- 2023-11: Joined [R.E. Grant Consultants](https://www.linkedin.com/company/regrantconsultants/) as a part-time CUDA Developer
 - 2023-03: Participated in [GTC-Spring2023](https://www.nvidia.com/gtc/)
 - 2022-09: Joined [Distributive](https://kingsds.network/) as a part-time GPU Engineer!
 - 2022-08: Our [work](https://dl.acm.org/doi/10.1145/3555819.3555857) is accepted in EuroMPI!
