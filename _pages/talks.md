@@ -25,9 +25,9 @@ author_profile: true
 
 - 2023-11-09: As one of the panelists at [Global Education Conference](https://www.queensu.ca/conferences/globaleducation/) at Queen's University, Invitation not assimilation: Inclusive listening to expand academic spaces and connect to global knowledges.
 
-- 2022 Fall: As the sound editor of [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) Podcast, season 2. 
+- 2022 Fall: As the sound editor of [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) Podcast, season 2.
   - Episode 6: As the co-host of this episode which is about [Thesis Supervisory Relationships](https://podcast.cfrc.ca/2022/09/thesis-supervisory-relationships/)
-    
+
 - 2021 Fall: As the host of [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) Podcast, season 1.
   - Episode 8: [Live episode](https://youtu.be/imOwe7ky4KQ), with Colette Steer, Alyssa Foerstner, and Lydia Skulstad
   - Episode 7: [Accented English](https://podcast.cfrc.ca/2021/10/accented-english/), with Janki Patel and Emina Arase
