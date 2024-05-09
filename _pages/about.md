@@ -14,11 +14,12 @@ redirect_from:
 
 ## News
 
+- 2024-01: Our work is accepted in [ExHET 2024](https://ornl.github.io/events/exhet2024/)!
 - 2023-11: Joined [R.E. Grant Consultants](https://www.linkedin.com/company/regrantconsultants/) as a part-time CUDA Developer
 - 2023-03: Participated in [GTC-Spring2023](https://www.nvidia.com/gtc/)
 - 2022-09: Joined [Distributive](https://kingsds.network/) as a part-time GPU Engineer!
 - 2022-08: Our [work](https://dl.acm.org/doi/10.1145/3555819.3555857) is accepted in EuroMPI!
-- 2022-08: Participated in NVIDIA Deep Learning Institute (DLI) courses. ([1](https://courses.nvidia.com/certificates/f671de8f7a6f455f94401c8795ab03de/) & [2](https://courses.nvidia.com/certificates/6c8d2bfea2dc4d939252b942945730ad/) & [3](https://courses.nvidia.com/certificates/fbfd1ecdac1e4a6ca8284fced2d43af6/)) 
+- 2022-08: Participated in NVIDIA Deep Learning Institute (DLI) courses. ([1](https://courses.nvidia.com/certificates/f671de8f7a6f455f94401c8795ab03de/) & [2](https://courses.nvidia.com/certificates/6c8d2bfea2dc4d939252b942945730ad/) & [3](https://courses.nvidia.com/certificates/fbfd1ecdac1e4a6ca8284fced2d43af6/))
 - 2022-06: Started internship at Microsoft Research ([MSR](https://www.microsoft.com/en-us/research/))
 - 2022-03: Participated in [GTC-Spring2022](https://www.nvidia.com/gtc/)
 - 2022-03: Our work is published in [IEEE Micro](https://ieeexplore.ieee.org/abstract/document/9705571).
@@ -35,5 +36,5 @@ redirect_from:
 - 2020-09: Joined [Engineering Teaching and Learning Team (ETLT)](https://engineering.queensu.ca/About/teaching-and-learning/team.html) as a part-time Course Design and Development Specialist.
 - 2020-09: Got [Parya Scholarship](http://paryascholarship.com/).
 - 2020-07: Our work named [Ignite-GPU](https://link.springer.com/article/10.1007%2Fs11227-020-03390-z) is published!
-- 2020-02: COVID-19 hit Canada. We went offline. 
+- 2020-02: COVID-19 hit Canada. We went offline.
 - 2020-01: Started PhD of Computer Engineering at Queen's University, ECE department, [PPRL group](https://www.queensu.ca/academia/afsahi/pprl/).
