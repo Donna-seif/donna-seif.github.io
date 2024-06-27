@@ -11,9 +11,11 @@ redirect_from:
 - Presently, a PhD student at Queen's University, Kingston, Ontario, involved in working on various research areas mainly focused on performance optimizations in MPI. More specifically, improving GPU-aware communications in CUDA-enabled OpenMPI and UCX libraries, for both _point-to-point_ and _collective_ communications including _message matching_ engine.  
 - As a Software Developer, work with parallel-processing and big-data platforms and programming models (such as MPI) and have extensive knowledge in various programming languages and frameworks like  C/C++, CUDA, OpenMP, etc.
 - Possess an insatiable enthusiasm to work as a teacher in academia, and look forward to combining my passion for education with my expertise in computer science.
+- My Resume can be obtained from [here](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume.pdf), and its academic version (extended CV) is available [there](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-CV.pdf).
 
 ## News
 
+- 2024-03: Our work got the best paper award in [ExHET 2024](https://ornl.github.io/events/exhet2024/)!
 - 2024-01: Our work is accepted in [ExHET 2024](https://ornl.github.io/events/exhet2024/)!
 - 2023-11: Joined [R.E. Grant Consultants](https://www.linkedin.com/company/regrantconsultants/) as a part-time CUDA Developer
 - 2023-03: Participated in [GTC-Spring2023](https://www.nvidia.com/gtc/)
