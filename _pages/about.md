@@ -15,6 +15,7 @@ redirect_from:
 
 ## News
 
+- 2024-08: Our work is accepted in [IEEE Cluster](https://clustercomp.org/2024/program/) 2024!
 - 2024-03: Our work got the best paper award in [ExHET 2024](https://ornl.github.io/events/exhet2024/)!
 - 2024-01: Our work is accepted in [ExHET 2024](https://ornl.github.io/events/exhet2024/)!
 - 2023-11: Joined [R.E. Grant Consultants](https://www.linkedin.com/company/regrantconsultants/) as a part-time CUDA Developer
