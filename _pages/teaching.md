@@ -15,16 +15,16 @@ author_profile: true
 
 ## Teaching Assistantship
 
-- 2024-25 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen’s University, by Dr. T. Dean and Dr. A. Mohamed
-- 2023-24 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen’s University, by Dr. Ahmad Afsahi
+- 2024-25 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen's University, by Dr. T. Dean and Dr. A. Mohamed
+- 2023-24 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen's University, by Dr. Ahmad Afsahi
 - 2023-24 Fall: ELEC 379 - Algorithms with Engineering Applications, Undergraduate, Queen's University, by Dr. Naraig Manjikian
-- 2022-23 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen’s University, by Dr. Ahmad Afsahi
-- 2022-23 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen’s University, by Dr. J. Ni and Dr. M. A. Hedayati
-- 2021-22 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen’s University, by Dr. Ryan Grant
-- 2021-22 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen’s University, by Dr. Amr Elwakeel
-- 2020-21 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen’s University, by Dr. Sean Whitehall
-- 2020-21 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen’s University, by Dr. David Athersych
-- 2019-20 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen’s University, by Dr. Ahmad Afsahi
+- 2022-23 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen's University, by Dr. Ahmad Afsahi
+- 2022-23 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen's University, by Dr. J. Ni and Dr. M. A. Hedayati
+- 2021-22 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen's University, by Dr. Ryan Grant
+- 2021-22 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen's University, by Dr. Amr Elwakeel
+- 2020-21 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen's University, by Dr. Sean Whitehall
+- 2020-21 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen's University, by Dr. David Athersych
+- 2019-20 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen's University, by Dr. Ahmad Afsahi
 - 2018-19 Fall: GPU Programming, Undergraduate, Shiraz University, by Dr. Farshad Khunjush
 - 2014-15 Fall: GPU Programming, Undergraduate, Shiraz University, by Dr. Farshad Khunjush
 - 2013-14 Winter: Multicore Programming, Graduate, Shiraz University, by Dr. Farshad Khunjush
