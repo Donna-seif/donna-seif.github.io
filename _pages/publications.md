@@ -8,7 +8,7 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=Dr5nIRYAAAAJ), too.
 
-- [1] **Amirhossein Sojoodi**, Yiltan Hassan Temucin, Ahmad Afsahi , "Enhancing Intra-Node GPU-to-GPU Performance in MPI + UCX through Multi-Path Communication"Proceedings of the International Workshop on Extreme Heterogeneity Solutions (ExHET), pp. 1-6, DOI: [10.1145/3642961.3643800](https://doi.org/10.1145/3642961.3643800) - <span style="color:red">**Best Paper Award**</span>.
+- [1] **Amirhossein Sojoodi**, Yiltan Hassan Temucin, Ahmad Afsahi , "Enhancing Intra-Node GPU-to-GPU Performance in MPI + UCX through Multi-Path Communication"Proceedings of the International Workshop on Extreme Heterogeneity Solutions (ExHET), pp. 1-6, DOI: [10.1145/3642961.3643800](https://doi.org/10.1145/3642961.3643800) - <span style="color:red">Best Paper Award</span>.
 
 - [2] Pedram Alizadeh, **Amirhossein Sojoodi**, Yiltan Hassan Temucin, Ahmad Afsahi , "Efficient Process Arrival Pattern Aware Collective Communication for Deep Learning"Proceedings of the European MPI Users' Group Meeting (EuroMPI), pp. 68-78, DOI: [10.1145/3555819.3555857](https://doi.org/10.1145/3555819.3555857)
 
