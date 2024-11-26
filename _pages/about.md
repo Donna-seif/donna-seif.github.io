@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- Presently, a PhD student at Queen's University, Kingston, Ontario, involved in working on various research areas mainly focused on performance optimizations in MPI. More specifically, improving GPU-aware communications in CUDA-enabled OpenMPI and UCX/UCC libraries, for both _point-to-point_ and _collective_ communications.  
-- As a Software Developer, work with parallel-processing and big-data platforms and programming models (such as MPI) and have extensive knowledge in various programming languages and frameworks like  C/C++, CUDA, OpenMP, WebGPU, etc.
-- Possess an insatiable enthusiasm to work as a teacher in academia, and look forward to combining my passion for education with my expertise in computer science.
+- Presently, a PhD student at Queen's University, Kingston, Ontario, Canada.
+- As a researcher, interested in parallel algorithm design, middleware performance optimization, and application acceleration. Focused on improving GPU-aware communication in OpenMPI and UCX/UCC libraries.
+- As an instructor, with 25+ courses TA'ed and taught, skilled in course design, development, and delivery, with a strong commitment to student success.
+- As a software engineer, experienced in parallel-processing platforms/tools and programming frameworks, including CUDA, OpenMP, MPI, Pthreads, etc.
+- Enthusiastic to work as a scholar, and eager to combine my passion for education with my expertise in computer science.
 - My Resume can be obtained from [here](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume.pdf), and its academic version (extended CV) is available [there](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-CV.pdf).
 
 ## News
