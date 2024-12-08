@@ -8,6 +8,13 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.co.uk/citations?hl=en&user=Dr5nIRYAAAAJ), too.
 
+[9] Yıltan Hassan Temucin, Whit Schonbein, Scott Levy, **Amirhossein Sojoodi**, Ryan E Grant, Ahmad Afsahi, "Design and
+Implementation of MPI-Native GPU-Initiated MPI Partitioned Communication", Proceedings of the workshops of the International
+Conference on High Performance Computing, Network, Storage, and Analysis (SC-W), pp. 1-12, DOI: [10.1109/SCW63240.2024.00065](https://doi.org/10.1109/SCW63240.2024.00065)
+
+[8] Hamed Sharifian, **Amirhossein Sojoodi**, Ahmad Afsahi, "A Topology- and Load-Aware Design for Neighborhood Allgather",
+Proceedings of the IEEE International Conference on Cluster Computing (CLUSTER), pp. 1-12, DOI: [10.1109/CLUSTER59578.2024.00019](https://doi.org/10.1109/CLUSTER59578.2024.00019)
+
 [7] **Amirhossein Sojoodi**, Yiltan Hassan Temucin, Ahmad Afsahi , "Enhancing Intra-Node GPU-to-GPU Performance in MPI + UCX through Multi-Path Communication", Proceedings of the International Workshop on Extreme Heterogeneity Solutions (ExHET), pp. 1-6, DOI: [10.1145/3642961.3643800](https://doi.org/10.1145/3642961.3643800) - <span style="color:red">Best Paper Award</span>.
 
 [6] Pedram Alizadeh, **Amirhossein Sojoodi**, Yiltan Hassan Temucin, Ahmad Afsahi , "Efficient Process Arrival Pattern Aware Collective Communication for Deep Learning", Proceedings of the European MPI Users' Group Meeting (EuroMPI), pp. 68-78, DOI: [10.1145/3555819.3555857](https://doi.org/10.1145/3555819.3555857)
