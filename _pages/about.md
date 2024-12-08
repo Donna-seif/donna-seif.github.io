@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Presently, a PhD student at Queen's University, Kingston, Ontario, Canada.
-- As a researcher, interested in parallel algorithm design, middleware performance optimization, and application acceleration. Focused on improving GPU-aware communication in OpenMPI and UCX/UCC libraries.
+- As a researcher, interested in parallel algorithm design, middleware performance optimization, and application acceleration. Focused on improving GPU-aware communication in OpenMPI and UCX/UCC libraries to enhance the performance of HPC and Deep Learning frameworks.
 - As an instructor, with 25+ courses TA'ed and taught, skilled in course design, development, and delivery, with a strong commitment to student success.
 - As a software engineer, experienced in parallel-processing platforms/tools and programming frameworks, including CUDA, OpenMP, MPI, Pthreads, etc.
 - Enthusiastic to work as a scholar, and eager to combine my passion for education with my expertise in computer science.
