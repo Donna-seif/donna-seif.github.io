@@ -13,7 +13,7 @@ author_profile: true
 - 2012 Winter: Software Engineering Lab, Undergraduate, Shiraz University
 - 2012 Summer: Software Engineering Lab, Undergraduate, Shiraz University
 
-## Teaching Assistantship
+## Teaching Assistants
 
 - 2024-25 Fall: ELEC 278 - Fundamentals of Information Structure, Undergraduate, Queen's University, by Dr. T. Dean and Dr. A. Mohamed
 - 2023-24 Winter: ELEC 374 - Digital Systems Engineering, Undergraduate, Queen's University, by Dr. Ahmad Afsahi
