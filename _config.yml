@@ -194,6 +194,15 @@ collections:
 
 # Defaults
 defaults:
+  # weeks
+  - scope:
+      path: ""
+      type: weeks
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
   # _posts
   - scope:
       path: ""
