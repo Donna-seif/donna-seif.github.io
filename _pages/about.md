@@ -17,6 +17,7 @@ redirect_from:
 
 ## News
 
+- 2025-06: Presented our work in [AsHES](https://www.ashes-hpc.org/2025/) workshop at [IPDPS 2025](https://www.ipdps.org/ipdps2025/).
 - 2025-01: Served in [QHacks 2025](https://www.linkedin.com/company/qhacks/) as a judge. It was a very nostalgic event for me. (Missing BTIU)
 - 2024-08: Our work is accepted in [IEEE Cluster](https://clustercomp.org/2024/program/) 2024!
 - 2024-03: Our work got the best paper award in [ExHET 2024](https://ornl.github.io/events/exhet2024/)!
