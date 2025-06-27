@@ -1,0 +1,14 @@
+@inproceedings{Alizadeh2022,
+  abstract        = {MPI collective communication operations are used extensively in parallel applications. As such, researchers have been investigating how to improve their performance and scalability to directly impact application performance. Unfortunately, most of these studies are based on the premise that all processes arrive at the collective call simultaneously. A few studies though have shown that imbalanced Process Arrival Pattern (PAP) is ubiquitous in real environments, significantly affecting the collective performance. Therefore, devising PAP-aware collective algorithms that could improve performance, while challenging, is highly desirable. This paper is along those lines but in the context of Deep Learning (DL) workloads that have become maintstream. This paper presents a brief characterization of collective communications, in particular MPI-Allreduce, in the Horovod distributed Deep Learning framework and shows that the arrival pattern of MPI processes is indeed imbalanced. It then proposes an intra-node shared-memory PAP-aware MPI-Allreduce algorithm for small to medium messages, where the leader process is dynamically chosen based on the arrival time of the processes at each invocation of the collective call. We then propose an intra-node PAP-aware algorithm for large messages that dynamically constructs the reduction schedule at each MPI-Allreduce invocation. Finally, we propose a PAP-aware cluster-wide hierarchical algorithm, which is extended by utilizing our intra-node PAP-aware designs, that imposes less data dependency among processes given its hierarchical nature compared to flat algorithms. The proposed algorithms deliver up to 58{\%} and 17{\%} improvement at the micro-benchmark and Horovod with TensorFlow application over the native algorithms, respectively.},
+  author          = {Alizadeh, Pedram and Sojoodi, Amirhossein and {Hassan Temucin}, Yiltan and Afsahi, Ahmad},
+  booktitle       = {Proceedings of the European MPI Users' Group Meeting (EuroMPI)},
+  doi             = {10.1145/3555819.3555857},
+  file            = {:D$\backslash$:/E-book/MendeleyBackup/2022/Proceedings of the European MPI Users' Group Meeting (EuroMPI)/Efficient Process Arrival Pattern Aware Collective Communication for Deep Learning - Alizadeh et al. - 2022.pdf:pdf},
+  isbn            = {9781450397995},
+  keywords        = {Collective Communication,Deep{\_}Learning,Distributed Deep Learning,MPI,MPI-Allreduce,PAP,Process Arrival Pattern},
+  mendeley-groups = {MustKnow,ByPPRL},
+  mendeley-tags   = {Deep{\_}Learning,MPI,PAP},
+  pages           = {68--78},
+  title           = {{Efficient Process Arrival Pattern Aware Collective Communication for Deep Learning}},
+  year            = {2022}
+}
