@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Amir's Homepage"
 title_separator          : "-"
-name                     : &name "AmirHossein Sojoodi"
+name                     : &name "Najmeh Seif"
 description              : &description "Research Assistant at Queen's University"
-url                      : https://amirsojoodi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://donna-seif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amirsojoodi/amirsojoodi.github.io"
+repository               : "donna-seif/donna-seif.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 140
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "AmirHossein Sojoodi"
+  name             : "Najmeh Seif"
   avatar           : "profile.png"
   bio              : "PhD student in Computer Engineering at Queen's University"
   location         : "Kingston, Canada"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "amirsojoodi"
+  github           : "donna-seif"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "amirsojoodi"
+  linkedin         : "najmeh-seif"
   orcid            : 
   pinterest        :
   soundcloud       :
